@@ -7,7 +7,7 @@ async def app(scope, receive, send):
         'status': 200,
         'headers': [
             [b'content-type', b'text/plain; charset=utf-8'],
-            [b'content-length', b'13'],
+            [b'content-length', b'11'],
         ]
     })
     await send({
