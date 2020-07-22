@@ -1,0 +1,11 @@
+uvloop==0.14.0
+
+# clients
+aiohttp==3.6.2
+tornado==6.0.4
+pycurl==7.43.0.5
+
+# servers
+uvicorn==0.11.6
+fastapi==0.59.0
+japronto==0.1.2
