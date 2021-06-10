@@ -7,5 +7,5 @@ pycurl==7.43.0.5
 
 # servers
 uvicorn==0.11.6
-fastapi==0.59.0
+fastapi==0.65.2
 japronto==0.1.2
